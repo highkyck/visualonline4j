@@ -1,3 +1,5 @@
+import net.sf.json.JSONArray;
+
 /**
  * {Insert class description here}
  *
@@ -7,6 +9,9 @@
  */
 public class App {
     public static void main(String[] args) {
-        System.out.println("hello world");
+
+        //JSONArray group = User.getUserGroup(1);
+
+        System.out.println(group);
     }
 }
